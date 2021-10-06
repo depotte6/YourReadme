@@ -1,14 +1,24 @@
 {
-  "name": "static-site",
+  "name": "yourreadme",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.5.2"
-  }
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depotte6/YourReadme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/depotte6/YourReadme/issues"
+  },
+  "homepage": "https://github.com/depotte6/YourReadme#readme"
 }
