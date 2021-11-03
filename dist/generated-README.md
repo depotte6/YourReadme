@@ -1,8 +1,8 @@
 
-  # asdf
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
+  # ReadME generator
+  ![badge](https://img.shields.io/badge/license-NONE-blue)
   ## Description
-  sdf
+  A walkthrough that helps you generate a readme for any of your projects!
 
   ## Table of Contents
   *[Installation](#installation)
@@ -21,7 +21,7 @@
  
 
   ## Usage
-  asdf
+  Watch the walkthrough video for intstructions
   
   ## Contributing
   undefined
@@ -31,8 +31,8 @@
   npm test
 
   ## Questions
-  For questions contact me at [email: asdf](mailto:asdf)
-  Find me at [asdf](https://github.com/asdf/).
+  For questions contact me at [email: depotte6@gmail.com](mailto:depotte6@gmail.com)
+  Find me at [depotte6](https://github.com/depotte6/).
 
 
 
