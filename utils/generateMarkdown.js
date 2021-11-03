@@ -35,7 +35,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
   ## Description
   ${data.description}
-  
+
   ## Table of Contents
   *[Installation](#installation)
   *[Usage](#usage)
@@ -44,8 +44,27 @@ function generateMarkdown(data) {
   *[Tests](#tests)
   *[Questions](#questions)
 
+  ## Installation
+  To install dependencies run these commands:
+  
+  ${data.installation}
+ 
 
+  ## Usage
+  ${data.usage}
+  
+  ## Contributing
+  ${data.contributing}
 
+  ## Tests
+  Run the following commands to run tests:
+  ${data.test}
+
+  ## Questions
+  For questions contact me at [email: ${data.email}](mailto:${data.email})
+  Find me at [${data.github}](https://github.com/${
+    data.github
+  }/).
 
 
 

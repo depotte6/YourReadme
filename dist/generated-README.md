@@ -2,7 +2,7 @@
   # asdf
   ![badge](https://img.shields.io/badge/license-MIT-blue)
   ## Description
-  asdf
+  sdf
 
   ## Table of Contents
   *[Installation](#installation)
@@ -17,7 +17,7 @@
   ## Installation
   To install dependencies run these commands:
   
-  asdf
+  npm install
  
 
   ## Usage
@@ -28,7 +28,7 @@
 
   ## Tests
   Run the following commands to run tests:
-  asd
+  npm test
 
   ## Questions
   For questions contact me at [email: asdf](mailto:asdf)
